@@ -1,5 +1,6 @@
 from django.contrib import admin
 
+# Register your models here.
 #<<<<<<< HEAD
 #<<<<<<< HEAD
 # Register your models here
